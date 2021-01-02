@@ -2561,10 +2561,11 @@ __webpack_require__.r(__webpack_exports__);
       //GET REQUEST TO DISPLAY STORED TASKS
       if (response.status == 200) {
         //CHECK RESPONSE
-        var res = response.data.split("<html>"); //PARSE DATA
 
-        var array = JSON.parse(res[0]);
-        var arrayOfTasks = array[0]; //var arrayOfTasks = response.data[0]; //GIT 
+        /*var res = response.data.split("<html>"); //PARSE DATA
+        var array = (JSON.parse(res[0]));
+        var arrayOfTasks = array[0];*/
+        var arrayOfTasks = response.data[0]; //GIT 
 
         var importance;
 
@@ -2624,10 +2625,11 @@ __webpack_require__.r(__webpack_exports__);
           //GET RESPONSE	
           if (response.status == 200) {
             //CHECK RESPONSE
-            var res = response.data.split("<html>"); //PARSE DATA
 
-            var array = JSON.parse(res[0]);
-            var createdTask = array[0]; //var createdTask = response.data[0]; //GIT
+            /*var res = response.data.split("<html>"); //PARSE DATA
+            var array = (JSON.parse(res[0]));
+            var createdTask = array[0];*/
+            var createdTask = response.data[0]; //GIT
 
             var duedate = Tasks.getTaskDueTime(new Date(Date.parse(createdTask.taskduedate)), new Date()); //GET DATE TILL TASK
 
@@ -38497,8 +38499,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\MŽ\Desktop\ToDoNEwDesign\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\MŽ\Desktop\ToDoNEwDesign\resources\css\app.css */"./resources/css/app.css");
+__webpack_require__(/*! C:\Users\MŽ\Desktop\gitnewdesign\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\MŽ\Desktop\gitnewdesign\resources\css\app.css */"./resources/css/app.css");
 
 
 /***/ })
