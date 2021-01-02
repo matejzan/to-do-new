@@ -1,0 +1,1062 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"overf",
+				"overflow"
+			],
+			[
+				"over",
+				"overflow"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"obe",
+				"object-fit\tproperty"
+			],
+			[
+				"print",
+				"printSucess"
+			],
+			[
+				"pass",
+				"passwordMatches"
+			],
+			[
+				"passL",
+				"passwordLen"
+			],
+			[
+				"passw",
+				"password"
+			],
+			[
+				"passwor",
+				"passwordlogin"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"re",
+				"render"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"laz",
+				"lazy_load"
+			],
+			[
+				"s",
+				"scroll"
+			],
+			[
+				"doc",
+				"document"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"paddi",
+				"padding-left\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pad",
+				"padding-right\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"f",
+				"flex-end\talign-items"
+			],
+			[
+				"pr",
+				"productfile"
+			],
+			[
+				"sor",
+				"sortArray"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"log",
+				"loginpass"
+			],
+			[
+				"login",
+				"loginmail"
+			],
+			[
+				"obje",
+				"object-fit\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"inl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"scro",
+				"scrollY"
+			],
+			[
+				"cur",
+				"currentPos"
+			],
+			[
+				"cu",
+				"currentPos"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"border-b",
+				"border-bottom\tproperty"
+			],
+			[
+				"welcom",
+				"welcomeName"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"email",
+				"emailFormat"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"password",
+				"password-again"
+			],
+			[
+				"pas",
+				"password_again"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"fetch_a",
+				"fetch_array"
+			],
+			[
+				"menis",
+				"meniswrapper"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"sc",
+				"screenWidth"
+			],
+			[
+				"border-botto",
+				"border-bottom-left-radius\tproperty"
+			],
+			[
+				"fle",
+				"flex-start\tjustify-content"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"inlin",
+				"inline-flex\tdisplay"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"time",
+				"timetable"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"ur",
+				"urbanasola-sport-overlay"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"menu",
+				"menuBarHeight"
+			],
+			[
+				"bopr",
+				"border-top-left-radius\tproperty"
+			],
+			[
+				"border-top",
+				"border-top-right-radius\tproperty"
+			],
+			[
+				"urbana",
+				"urbanasola-sport"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"logo",
+				"logoHeight"
+			],
+			[
+				"inli",
+				"inline-flex\tdisplay"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"inline",
+				"inline-flex\tdisplay"
+			],
+			[
+				"onmouse",
+				"onmouseleave\tAttr"
+			],
+			[
+				"onmous",
+				"onmouseover\tAttr"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"touch",
+				"touchsurface"
+			],
+			[
+				"tran",
+				"transform\tproperty"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"acti",
+				"activeSlideIndex"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"gallery",
+				"tecaji-gallery-item"
+			],
+			[
+				"teca",
+				"tecaji-urnik"
+			],
+			[
+				"activ",
+				"activetriangle"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"cont",
+				"container80"
+			],
+			[
+				"borde",
+				"border-bottom\tproperty"
+			],
+			[
+				"fot",
+				"font-weight\tproperty"
+			],
+			[
+				"tecaji",
+				"tecaji-accordion"
+			],
+			[
+				"cen",
+				"justify-content\tproperty"
+			],
+			[
+				"Im",
+				"important"
+			],
+			[
+				"o",
+				"overflow-y\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"project",
+				"project-thumbnail-4"
+			],
+			[
+				"magi",
+				"margin-top\tproperty"
+			],
+			[
+				"backg",
+				"background\tproperty"
+			],
+			[
+				"img_e",
+				"img_edges_binary"
+			],
+			[
+				"gra",
+				"gradient_magnitude"
+			],
+			[
+				"so",
+				"sobel_vertical"
+			],
+			[
+				"img_edges",
+				"img_edges_2"
+			],
+			[
+				"cli",
+				"clip-path\tproperty"
+			],
+			[
+				"inline-",
+				"inline-flex\tdisplay"
+			],
+			[
+				"oute",
+				"outerGeo"
+			],
+			[
+				"gallery-",
+				"gallery-thumbnail12"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"grid",
+				"grid-template-rows\tproperty"
+			],
+			[
+				"vide",
+				"video-item-overlay-textbox"
+			],
+			[
+				"video-item",
+				"video-item-overlay"
+			],
+			[
+				"active",
+				"activeSection"
+			],
+			[
+				"inner",
+				"innerHeight"
+			],
+			[
+				"ovwe",
+				"overflow\tproperty"
+			],
+			[
+				"table",
+				"table-cell\tdisplay"
+			],
+			[
+				"file",
+				"fileContent"
+			],
+			[
+				"video",
+				"video-item-overlay"
+			],
+			[
+				"act",
+				"activeSection"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"background-",
+				"background-image\tproperty"
+			],
+			[
+				"c",
+				"currentSectionIndex"
+			],
+			[
+				"programi-",
+				"programi-thumbnail-2"
+			],
+			[
+				"galler",
+				"gallery-thumbnail2"
+			],
+			[
+				"ow",
+				"overflow-x\tproperty"
+			],
+			[
+				"dol",
+				"dol1"
+			],
+			[
+				"de",
+				"dejanske_znacilke"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 192.0,
+		"history":
+		[
+			"node thirdTry.js"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/MŽ/Desktop/test/server.php",
+		"/C/Users/MŽ/Desktop/test/public/index.php",
+		"/C/Users/MŽ/Desktop/test/bootstrap/app.php",
+		"/C/Users/MŽ/Desktop/test/public/.htaccess",
+		"/C/Users/MŽ/Desktop/LearnNode/package.json",
+		"/C/Users/MŽ/Desktop/LearnNode/views/custom.js",
+		"/C/Users/MŽ/Desktop/LearnNode/server.js",
+		"/C/Users/MŽ/Desktop/LearnNode/views/index.html",
+		"/C/Users/MŽ/Desktop/LearnNode/app.js",
+		"/C/Users/MŽ/Desktop/EKŠN_parks/assets/js/bootstrap.js",
+		"/C/Users/MŽ/Desktop/EKŠN_parks/assets/css/bootstrap.css",
+		"/C/Users/MŽ/Desktop/EKŠN_parks/style.css",
+		"/C/Users/MŽ/Desktop/LearnNode/package-lock.json",
+		"/C/Users/MŽ/Desktop/EKŠN_parks/assets/js/custom.js",
+		"/C/Users/MŽ/Desktop/EKŠN_parks/index.html",
+		"/C/Users/MŽ/Desktop/LearnNode/.git/index",
+		"/C/Program Files/Apache/htdocs/assets/js/custom.js",
+		"/C/Program Files/Apache/htdocs/register.php",
+		"/C/Program Files/Apache/htdocs/login.php",
+		"/C/Program Files/Apache/htdocs/index.php",
+		"/C/Users/MŽ/Desktop/EKŠN SKATEPARKS PAGE/index.html",
+		"/C/Users/MŽ/Desktop/Fastcast - the only casting tool you will ever need.html",
+		"/C/Users/MŽ/Desktop/UR_poročilo_delovanja/assets/js/bootstrap.js",
+		"/C/Users/MŽ/Desktop/UR_poročilo_delovanja/style_porocilo.css",
+		"/C/Users/MŽ/Desktop/UR_poročilo_delovanja/assets/js/custom_porocilo.js",
+		"/C/Users/MŽ/Desktop/UR_poročilo_delovanja/assets/css/slick.css",
+		"/C/Users/MŽ/Desktop/UR_poročilo_delovanja/index.html",
+		"/C/Users/MŽ/Desktop/UR_poročilo_delovanja/assets/css/bootstrap_porocilo.css",
+		"/C/Users/MŽ/Desktop/Fastcast - the only casting tool you will ever need_files/a_data_002/vendor.js",
+		"/C/Users/MŽ/Desktop/Fastcast - the only casting tool you will ever need_files/box-469cf41adb11dc78be68c1ae7f9457a4.html",
+		"/C/Users/MŽ/Desktop/Fastcast - the only casting tool you will ever need_files/a_002.html",
+		"/C/Users/MŽ/Desktop/Fastcast - the only casting tool you will ever need_files/a.html",
+		"/C/Users/MŽ/Desktop/LearnNode/views/shop.html",
+		"/C/Users/MŽ/Desktop/EKŠN_SKATEPARKS_3/style.css",
+		"/C/Users/MŽ/Desktop/LearnNode/views/productAdder.html",
+		"/C/Users/MŽ/Desktop/LearnNode/views/style.css",
+		"/C/Users/MŽ/Desktop/Fastcast - the only casting tool you will ever need_files/app.css",
+		"/C/Users/MŽ/Desktop/LearnNode/public/index.html",
+		"/C/Users/MŽ/Desktop/LearnNode/views/index.ejs",
+		"/C/Users/MŽ/Desktop/LearnNode/secondTry.js",
+		"/C/Users/MŽ/Desktop/LearnNode/public/index.ejs.html",
+		"/C/Users/MŽ/Desktop/EKŠN_SKATEPARKS_3/assets/js/custom.js",
+		"/C/Users/MŽ/Desktop/EKŠN_SKATEPARKS_3/index.html",
+		"/C/Users/MŽ/Desktop/LearnNode/public/style.css",
+		"/C/Users/MŽ/Desktop/LearnNode/public/custom.js",
+		"/C/Users/MŽ/Desktop/LearnNode/thirdTry.js",
+		"/C/Users/MŽ/Desktop/LearnNode/node_modules/mssql/lib/tedious/connection-pool.js",
+		"/C/Users/MŽ/Desktop/LearnNode/node_modules/mssql/tedious.js",
+		"/C/Users/MŽ/Desktop/POROČILO DELOVANJA/assets/js/custom.js",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/style.css",
+		"/C/Users/MŽ/Desktop/FRsite_Vert_anim/assets/js/custom.js",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/menu.txt",
+		"/C/Users/MŽ/Desktop/FRsite_Vert_anim/index.html",
+		"/C/Users/MŽ/Desktop/EKŠN_SKATEPARKS_3/assets/css/bootstrap.css",
+		"/C/Users/MŽ/Desktop/EKŠN_SKATEPARKS_3/assets/js/bootstrap.js",
+		"/C/Users/MŽ/Desktop/POROČILO DELOVANJA/index.html",
+		"/C/Users/MŽ/Desktop/POROČILO DELOVANJA/assets/js/custom_porocilo.js",
+		"/C/Users/MŽ/Desktop/UR_PAGE/assets/js/custom_novice.js",
+		"/C/Users/MŽ/Desktop/EKŠN SKATEPARKS PAGE/style.css",
+		"/C/Users/MŽ/Desktop/EKŠN_SKATEPARKS_3/assets/js/jquery.js",
+		"/C/Program Files/Apache/htdocs/style.css",
+		"/C/Program Files/Apache/htdocs/welcome.php",
+		"/C/Program Files/Apache/htdocs/test.html",
+		"/C/Program Files/Apache/htdocs/test.php",
+		"/C/Users/MŽ/Desktop/LearnNode/style.css",
+		"/C/Users/MŽ/Desktop/LearnNode/learnnode.js",
+		"/C/Users/MŽ/Desktop/LearnNode/index.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/bmx.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/index.html",
+		"/C/Users/MŽ/Desktop/EKŠN_SKATEPARKS_3/assets/js/abc.js",
+		"/C/Users/MŽ/Desktop/EKŠN SKATEPARKS WHITE ORANGE/index.html",
+		"/C/Users/MŽ/Desktop/EKŠN SKATEPARKS WHITE ORANGE/test.html",
+		"/C/Program Files/Apache/htdocs/submit.php",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/assets/js/custom.js",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/test.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/assets/css/bootstrap.css",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/style_svetel.css",
+		"/C/Users/MŽ/Desktop/UR_PAGE/style.css",
+		"/C/Users/MŽ/Desktop/UR_PAGE/index.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/assets/js/instafeed.js",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/urbanfest.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/template.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/flat-out.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/zaprtost-krompirjeve.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/santa-jam.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/urbane-pocitnice.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/poletne-pocitnice.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/izgradnja-UR2.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/teden-pod-streho.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/novim-zmagam-naproti.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/prenova-grosuplje.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/pricetek-proste-rekreacije.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/otvoritev-roofa-2.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/roofov-9-rd.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/sezona-1920.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/teden-odprtih-vrat.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/iscemo-hip-hop-ucitelja.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/gradimo-skatepark.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/poletni-programi.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/prosta-rekreacija.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/rojstni-dnevi.html",
+		"/C/Users/MŽ/Desktop/UR_PAGE/urbanfest.html",
+		"/C/Users/MŽ/Desktop/UR_PAGE/assets/js/custom.js",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/style_test.css",
+		"/C/Users/MŽ/AppData/Local/Temp/snazzy-maps-example-map-without-labels-style.html",
+		"/C/Users/MŽ/Desktop/POROČILO DELOVANJA - Copy/style_porocilo.css",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/assets/js/bootstrap.js",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/cenik.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/index.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/assets/js/novice_custom.js",
+		"/C/Users/MŽ/Desktop/FRsite_Vert_anim/style.css",
+		"/C/Users/MŽ/Desktop/POROČILO DELOVANJA - Copy/assets/js/custom_porocilo.js",
+		"/C/Users/MŽ/Desktop/POROČILO DELOVANJA - Copy/index.html",
+		"/C/Users/MŽ/Desktop/EKŠN SKATEPARKS PAGE/assets/js/custom.js",
+		"/C/Users/MŽ/Desktop/UR_PAGE/assets/js/slick.js",
+		"/C/Users/MŽ/Desktop/POROČILO DELOVANJA - Copy/assets/js/slick_porocilo.js",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/assets/js/slick.js",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/new30.txt",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/new1.txt",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/index_backup.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/newA6.txt",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/new5.txt",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/assets/js/novice_custom_js.js",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/novice.html",
+		"/C/Users/MŽ/Desktop/FRsite_Horiz_anim/style.css",
+		"/C/Users/MŽ/Desktop/FRsite_Horiz_anim/index.html",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/new2.txt",
+		"/C/Users/MŽ/Desktop/UR NEW PAGE/novice/new3.txt"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 148.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"body",
+			"express",
+			"console.log",
+			"console",
+			"modal",
+			"16px",
+			"modal",
+			"app",
+			"bodyParser",
+			" \n",
+			"});\n",
+			" {",
+			"mssql",
+			"};\n",
+			"});",
+			"font-size: 60px",
+			"style=\"font-size: 60px; font-weight:500\"",
+			"60px;",
+			"\"font-size: 60px",
+			"\"font-size: 60px;",
+			"load",
+			"lazy",
+			" wow fadeIn\" data-wow-duration=\"0.5s",
+			" wow fadeIn\" data-wow-duration=\"1.5s",
+			"data-wow-duration=\"1.5s\"",
+			"\"1.5s\"",
+			"1.5",
+			"modal",
+			"900",
+			"modal-dialog",
+			"<br>",
+			";\n",
+			"16px",
+			"plan3",
+			"18px",
+			"16px",
+			"meni",
+			"262626",
+			"tecaji-gallery-item",
+			"tecaji-gallery-item-img\"",
+			"tecaji-gallery-item",
+			"oprema-photo-ovelay",
+			"tecaji-gallery-item-overlay",
+			"bmx",
+			"bmx-1",
+			"tecaji-gallery-item w33",
+			"d26e35",
+			"993d00",
+			"widthParsed",
+			"\">\n",
+			">';\n",
+			" $(\"#",
+			"');?></",
+			"result",
+			"  $",
+			"/*UR PAGE 2020 - main CSS - Matej Žan*/\n\n/*\nsvetlosiva: #f2f2f2;\ntemnosiva: #262626;\ntemnosiv-gradient: radial-gradient(#404040, #262626);\nsvetlosiv-gradient: radial-gradient(#f2f2f2, #d9d9d9);\nmoder-gradient: radial-gradient(#325767, #233c47);\nlinear-gradient(45deg, #75851D 0%, #75851D 75%, #325867 100%)\n\n\n */\n\n\nbody {\n\tfont-family: Verdana, sans-serif !important; \n\tmargin: 0px !important;\n\toverflow-x: hidden;\n}\n\n/*---------------*/\n/*CONTAINERS*/\n/*---------------*/\n\n.container90 {\n\twidth: 90%;\n\tmargin: 0px 5%;\n\tposition: relative;\n\tdisplay: -ms-flexbox;\n  \tdisplay: flex;\n  \t-ms-flex-wrap: wrap;\n  \tflex-wrap: wrap;\n}\n\n.container80 {\n\twidth: 80%;\n\tmargin: 0px 10%;\n\tposition: relative;\n\tdisplay: -ms-flexbox;\n  \tdisplay: flex;\n  \t-ms-flex-wrap: wrap;\n  \tflex-wrap: wrap;\n}\n\n.container70 {\n\twidth: 70%;\n\tmargin: 0px 15%;\n\tposition: relative;\n\tdisplay: -ms-flexbox;\n  \tdisplay: flex;\n  \t-ms-flex-wrap: wrap;\n  \tflex-wrap: wrap;\n}\n\n.row {\n  \tdisplay: -ms-flexbox;\n  \tdisplay: flex;\n  \t-ms-flex-wrap: wrap;\n  \tflex-wrap: wrap;\n  \tmargin: 0px !important;\n}\n\n.w25 {\n\twidth: 25%;\n}\n\n/*---------------*/\n/*MENI*/\n/*---------------*/\n\n#meni {\n\n}\n\n.mobilemenu {\n\tdisplay: none;\n}\n\n.desktopmenu {\n\tdisplay: block;\n}\n\n.meniDesktop {\n\theight: 90px;\n    width: 70%;\n    display: inline-flex;\n\talign-items: center;\n\tjustify-content: center;\n\ttransition: 0.25s ease-in-out;\n\t-o-transition: 0.25s ease-in-out;\n\t-moz-transition: 0.25s ease-in-out;\n\t-webkit-transition: 0.25s ease-in-out;\n}\n\n.meni-bar {\n\theight: 90px;\n\tbackground-color: rgba(242,242,242, 1);\n\twidth: 100%;\n\tposition: fixed;\n\tz-index: 20;\n\ttransition: 0.3s ease-in-out;\n\t-o-transition: 0.3s ease-in-out;\n\t-moz-transition: 0.3s ease-in-out;\n\t-webkit-transition: 0.3s ease-in-out;\n}\n\n.dropdown-meni {\n\tdisplay: inline-flex;\n\twidth: calc(99.99% / 3);\n\theight: 0px;\n\talign-items: center;\n\tjustify-content: flex-start;\n}\n\n.bar1, .bar2, .bar3 {\n\twidth: 50px;\n\theight: 7px;\n\tbackground-color: #262626;\t\n\tmargin: 9px 0;\n\tborder: 2px solid #262626;\n\tborder-radius: 2px;\n\ttransition: 0.3s ease-in-out;\n\t-o-transition: 0.3s ease-in-out;\n\t-moz-transition: 0.3s ease-in-out;\n\t-webkit-transition: 0.3s ease-in-out;\n}\n\n.meni-bars {\n\tcursor: pointer;\n\topacity: 0.8;\n\ttransition: 0.1s ease-in-out;\n\t-o-transition: 0.1s ease-in-out;\n\t-moz-transition: 0.1s ease-in-out;\n\t-webkit-transition: 0.1s ease-in-out;\n\tmargin-top: 90px;\n}\n\n.meni-bars:hover {\n\topacity: 1;\n}\n\n.change .bar1 {\n\t-webkit-transform: translate(0px, 6px) rotate(-45deg);\n\ttransform: translate(0px, 16px) rotate(-45deg);\n}\n\n.change .bar2 {\n\topacity: 0;\n}\n\n.change .bar3 {\n\t-webkit-transform: translate(0px, -6px) rotate(45deg);\n  \ttransform: translate(0px, -16px) rotate(45deg);\n}\n\n.logo {\n\tdisplay: inline-flex;\n\twidth: calc(99.99% / 3);\n\talign-items: center;\n\tjustify-content: center;\n\ttransition: 0.25s ease-in-out;\n\t-o-transition: 0.25s ease-in-out;\n\t-moz-transition: 0.25s ease-in-out;\n\t-webkit-transition: 0.25s ease-in-out;\n}\n\n.logo img {\n\twidth: 150px;\n\tmargin-top: 16px;\n}\n\n.logoDesktop {\n\twidth: 15%;\n\tdisplay: inline-flex;\n\talign-items: flex-start;\n\tjustify-content: flex-start;\n\ttransition: 0.25s ease-in-out;\n\t-o-transition: 0.25s ease-in-out;\n\t-moz-transition: 0.25s ease-in-out;\n\t-webkit-transition: 0.25s ease-in-out;\n}\n\n.logoDesktop img {\n\twidth: 150px;\n\tmargin-top: 16px;\n}\n\n.hidden {\n\theight: 0px !important;\n}\n\n.language {\n\tdisplay: inline-flex;\n\twidth: calc(99.99% / 3);\n\theight: 0px;\n}\n\n.open-meni {\n\theight: 100vh;\n\twidth: 100%;\n\tposition: fixed;\n\tz-index: 19;\n\tbackground: #f2f2f2;\n\topacity: 0;\n\tdisplay: none;\n\tjustify-content: flex-start;\n\ttransition: 0.3s ease-in-out;\n\t-o-transition: 0.3s ease-in-out;\n\t-moz-transition: 0.3s ease-in-out;\n\t-webkit-transition: 0.3s ease-in-out;\n}\n\n.menis-wrapper {\n\twidth: 100%;\n\tdisplay: flex;\n\tflex-direction: column;\n\tjustify-content: center;\n\talign-items: center;\n\theight: 90%;\n\tpadding-top: 120px;\n}\n\n.menis-wrapper a {\n\tfont-size: 30px;\n\tcolor: #262626;\n\tpadding: 15px 0px;\n\ttransition: 0.1s ease-in-out;\n\t-o-transition: 0.1s ease-in-out;\n\t-moz-transition: 0.1s ease-in-out;\n\t-webkit-transition: 0.1s ease-in-out;\n}\n\n.menis-item-wrapper {\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n\theight: 90px;\n\tbackground: none;\n\ttransition: 0.1s ease-in-out;\n\t-o-transition: 0.1s ease-in-out;\n\t-moz-transition: 0.1s ease-in-out;\n\t-webkit-transition: 0.1s ease-in-out;\n}\n\n.menis-item-wrapper p {\n\tfont-size: 16px;\n\tcolor: #262626;\n\tpadding: 0px 15px;\n\ttransition: 0.1s ease-in-out;\n\t-o-transition: 0.1s ease-in-out;\n\t-moz-transition: 0.1s ease-in-out;\n\t-webkit-transition: 0.1s ease-in-out\n}\n\n\n.menis-item-wrapper:hover {\n\tbackground: #75851D;\n}\n\n.menis-item-wrapper:hover p{\n\tcolor: #f2f2f2;\n}\n\n\n/*---------------*/\n/*INDEX PAGE*/\n/*---------------*/\n\n\n#slider{\n\n}\n\n.main-slider {\n  \theight: 100vh;   \n  \twidth: 100%;\n  \tmin-height: 430px;\n  \tposition: relative;\n}\n\n.single-slide{\n \tmin-height: 430px;\n  \tposition: absolute;\n  \theight: 100%;\n  \twidth: 100%;\n  \tz-index: 5;\n  \topacity: 0;\n  \ttransition: 0.7s ease-in-out;\n  \t-o-transition: 0.7s ease-in-out; \n  \t-moz-transition: 0.7s ease-in-out;\n  \t-webkit-transition: 0.7s ease-in-out;\n}\n\n.active-slide {\n\tz-index: 6;\n\topacity: 1;\n}\n\n.single-slide img{\n  \twidth: 100%;\n  \theight: 100%;\n  \tmin-height: 430px;\n  \tobject-fit: cover;\n  \tposition: absolute;\n}\n\n.slide-content {\n  \tbackground-color: rgba(0, 0, 0, 0.0);\n  \theight: 100vh;\n  \twidth: 100%;\n  \tmin-height: 430px;\n  \tdisplay: flex;\n  \talign-items: center;\n  \tposition: absolute;\n}\n\n.blue-overlay {\n  \twidth:100%;\n  \theight: 100%;\n  \tbackground: linear-gradient(to right, rgba(99, 122, 0, 1), rgba(0,0,0,0));\n  \tposition: absolute;\n  \tz-index:9;\n}\n\n.arrow-prev {\n\tdisplay: flex;\n\talign-items: center;\n\tjustify-content: center;\n\twidth: 60px;\n\theight: 60px;\n\tbackground: #262626;\n\topacity: 0.2;\n\tposition: absolute;\n\tleft: calc(5% - 30px);\n\tz-index: 8;\n\tcursor: pointer;\n\ttransition: 0.25s ease-in-out;\n\t-o-transition: 0.25s ease-in-out;\n\t-moz-transition: 0.25s ease-in-out;\n\t-webkit-transition: 0.25s ease-in-out;\n}\n\n.arrow-next {\n\tdisplay: flex;\n\talign-items: center;\n\tjustify-content: center;\n\twidth: 60px;\n\theight: 60px;\n\tbackground: #262626;\n\topacity: 0.2;\n\tposition: absolute;\n\tright: calc(5% - 30px);\n\tz-index: 8;\n\tcursor: pointer;\n\ttransition: 0.25s ease-in-out;\n\t-o-transition: 0.25s ease-in-out;\n\t-moz-transition: 0.25s ease-in-out;\n\t-webkit-transition: 0.25s ease-in-out;\n}\n\n.arrow-next:hover {\n\topacity: 1;\n}\n\n.arrow-prev:hover {\n\topacity: 1;\n}\n\n.arrow-prev p {\n\tfont-size: 35px;\n\tcolor: #f2f2f2;\n\tmargin: 0px;\n}\n\n.arrow-next p {\n\tfont-size: 35px;\n\tcolor: #f2f2f2;\n\tmargin: 0px;\n}\n\n.slider-tekst {\n  \tdisplay: flex;\n  \talign-items: center;\n  \tjustify-content: center;\n  \tflex-direction: column;\n  \twidth: 100%;\n  \tmin-height: 130px;\n  \tposition: absolute;\n  \tbottom: 0;\n  \tz-index: 8;\n  \tcursor: pointer;\n  \tpadding-bottom: 40px;\n  \tbackground: rgba(117,133,29,0.9);\n  \ttransition: 0.25s ease-in-out;\n\t-o-transition: 0.25s ease-in-out;\n\t-moz-transition: 0.25s ease-in-out;\n\t-webkit-transition: 0.25s ease-in-out;\n}\n\n.activeST {\n\tbackground: #262626;\n\topacity: 1;\n}\n\n.activeST p{\n\topacity: 1 !important;\n\tcolor: #f2f2f2;\n\ttext-align: center;\n}\n\n.slider-tekst:hover {\n\tbackground: #262626;\n\topacity: 1;\n}\n\n.slider-tekst-title-wrapper {\n\ttop: 0px;\n\tposition: relative;\n\tdisplay: flex;\n\talign-items: center;\n\tpadding: 10px 5%;\n}\n\n.slider-tekst-title-wrapper b{\n  \tcolor: #f2f2f2;\n  \tfont-size:45px;\n  \tfont-weight: 700;\n  \ttext-align: center;\n}\n\n.slider-tekst-wrapper {\n\tposition: relative;\n\tdisplay: flex;\n\talign-items: center;\n\tjustify-content: center;\n\twidth: 100%;\n\tpadding: 0px 10%;\n\tmax-height: 0px;\n\ttransition: max-height 0.25s ease-in-out;\n\t-o-transition: max-height 0.25s ease-in-out;\n\t-moz-transition: max-height 0.25s ease-in-out;\n\t-webkit-transition: max-height 0.25s ease-in-out;\n\ttransition: 0.25s ease-in-out;\n\t-o-transition: 0.25s ease-in-out;\n\t-moz-transition: 0.25s ease-in-out;\n\t-webkit-transition: 0.25s ease-in-out;\n}\n\n.activeSTW {\n\tmax-height: 200px;\n\tmargin-top: 30px;\n\tmargin-bottom: 60px;\n}\n\n.slider-tekst-wrapper p{\n  \tdisplay: block;\n  \topacity: 0;\n  \tfont-size: 20px !important;\n  \ttransition: 0.4s ease-in-out;\n\t-o-transition: 0.4s ease-in-out;\n\t-moz-transition: 0.4s ease-in-out;\n\t-webkit-transition: 0.4s ease-in-out;\n\tmargin: 0px;\n\ttext-align: center;\n}\n\n.navig {\n  \twidth:100%;\n  \tposition: absolute;\n  \tdisplay: flex;\n  \tjustify-content: center;\n  \talign-items: center;\n  \theight: 25px;\n  \tbottom: 0px;\n  \tz-index: 7;\n}\n\n.navig-each {\n  \tdisplay:inline-block;\n  \tcursor:pointer;\n  \theight:15px;\n}\n\n.navig-each-rect{\n  \tbackground-color: #f2f2f2;\n  \theight:5px;\n  \twidth:50px;\n  \tborder-radius: 2px;\n  \topacity:0.3;\n  \ttransition: 0.1s ease-in-out;\n  \t-o-transition: 0.1s ease-in-out; \n  \t-moz-transition: 0.1s ease-in-out;\n  \t-webkit-transition: 0.1s ease-in-out;\n  \tmargin: 0px 3px;\n}\n\n.navig-each-rect:hover {\n\topacity: 1;\n}\n\n.active-rect {\n\topacity: 1;\n}\n\n.ticket{\n\tmargin: 20px 0px;\n\theight: 150px;\n\twidth: 25%;\n\tbackground: linear-gradient(45deg, #75851D 0%, #75851D 75%, #325867 100%);\n\t \n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n\tborder-radius: 0px 15px 15px 0px;\n}\n\n.ticket h1 {\n\tfont-size: 50px;\n\tcolor: #f2f2f2;\n}\n\n#urbanasolas {\n\tpadding: 50px 0px;\n\tbackground: #fff;\n\t/*background: radial-gradient(#404040, #262626);*/\n\tposition: relative;\n\tz-index: 11;\n}\n\n.urbana-sola {\n\n}\n\n.urbanasola-title {\n\twidth: 100%;\n\tdisplay: inline-flex;\n\talign-items: center;\n\tpadding: 10px 0px 10px 0px;\n\tflex-direction: column;\n}\n\n.urbanasola-title h1 {\t\n\tfont-size: 40px;\n\tfont-weight: 900;\n\tcolor: #75851D;\n\tmargin: 0px 0px 30px 0px;\n\twhite-space: nowrap;\n}\n\n.urbanasola-tekst {\n\tdisplay: inline-flex;\n\tjustify-content: center;\n\talign-items: center;\n}\n\n.urbanasola-tekst p {\n\tfont-size: 18px;\n\tcolor: #262626;\n\tmargin: 0px;\n}\n\n.urbanasola-sports {\n\twidth: calc(100% + 4px);\n\tposition: relative;\n\tpadding-top: 50px;\n\tmargin-left: -2px;\n\tmargin-right: -2px;\n}\n\n.urbanasola-sport {\n\twidth: 50%;\n\tposition: relative;\n\tdisplay: inline-block;\n\tborder: 2px solid transparent;\n}\n\n.urbanasola-sport img {\n\twidth: 100%;\n\theight: 100%;\n\tobject-fit: cover;\n}\n\n.urbanasola-sport-overlay {\n\twidth: 100%;\n\theight: 100%;\n\tbackground: rgba(38, 38, 38, 0.6);\n\tposition: absolute;\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n\ttransition: 0.25s ease-in-out;\n\t-o-transition: 0.25s ease-in-out;\n\t-moz-transition: 0.25s ease-in-out;\n\t-webkit-transition: 0.25s ease-in-out;\n}\n\n.urbanasola-sport-overlay:hover {\n\tbackground: rgba(3, 38, 38, 0.1);\n\tcursor: pointer;\n}\n\n.urbanasola-sport-overlay-tekst {\n    padding: 10px;\n}\n\n.urbanasola-sport-overlay p {\n\tfont-size: 3vw;\n\tcolor: #f2f2f2;\n\tfont-weight: 700;\n\ttext-align: center;\n}\n\n#aktualnos {\n\tbackground: #262626;\n\tpadding: 50px 0px;\n\tposition: relative;\n\tz-index: 11;\n}\n\n.aktualno-title {\n\twidth: 100%;\n\tdisplay: inline-flex;\n\talign-items: center;\n\tpadding: 10px 0px 10px 0px;\n\tflex-direction: column;\n}\n\n.aktualno-title h1 {\t\n\tfont-size: 40px;\n\tfont-weight: 900;\n\tcolor: #f2f2f2;\n\tmargin: 0px 0px 30px 0px;\n\twhite-space: nowrap;\n}\n\n.aktualno-tekst {\n\tdisplay: inline-flex;\n\talign-items: center;\n\tmargin-bottom: 30px;\n}\n\n.aktualno-tekst p {\n\tfont-size: 18px;\n\tcolor: #f2f2f2;\n\tmargin: 0px;\n}\n\n.novice-homepage-wrapper {\n\tdisplay: -ms-flexbox;\n\tdisplay: flex;\n\t-ms-flex-wrap: wrap;\n\tflex-wrap: wrap;\n\twidth: 100%;\n}\n\n.homepagemain {\n\tdisplay: inline-flex;\n\twidth: 50%;\n}\n\n.homepage4 {\n\tdisplay: inline-flex;\n\twidth: 25%;\n}\n\n#onas {\n\tbackground: white;\n\tpadding: 50px 0px;\n\tposition: relative;\n\tz-index: 11;\n}\n\n.onas-title {\n\twidth: 100%;\n\tdisplay: inline-flex;\n\talign-items: center;\n\tpadding: 10px 0px 10px 0px;\n\tflex-direction: column;\n}\n\n.onas-title h1 {\t\n\tfont-size: 40px;\n\tfont-weight: 900;\n\tcolor: #262626;\n\tmargin: 0px 0px 30px 0px;\n\twhite-space: nowrap;\n}\n\n.onas-tekst {\n\tdisplay: inline-flex;\n\talign-items: center;\n\tmargin-bottom: 30px;\n}\n\n.onas-tekst p {\n\tfont-size: 18px;\n\tcolor: #262626;\n\tmargin: 0px;\n}\n\n.onas-description-wrapper {\n\tdisplay: inline-flex;\n\twidth: 50%;\n\tjustify-content: center;\n\talign-items: center;\n}\n\n.onas-description {\n\tpadding-right: 50px;\n}\n\n.onas-description p {\n\tfont-size: 18px;\n\tcolor: #262626;\n\tmargin: 0px;\n}\n\n/*---------------*/\n/*TECAJI TEMPLATE*/\n/*---------------*/\n\n.tecaji-header-img {\n\theight: 50vh;\n\twidth: 100%;\n\tposition: relative;\n}\n\n.tecaji-header-img img{\n\twidth: 100%;\n\theight: 50vh;\n\tobject-fit: cover;\n\tposition: fixed;\n}\n\n.tecaji-header-img-overlay {\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n\twidth: 100%;\n\theight: 50vh;\n\tbackground: rgba(0, 0, 0, 0.3);\n\tposition: fixed;\n}\n\n.tecaji-header-img-overlay h1 {\n\tfont-size: 75px;\n\tfont-weight: 900;\n\tcolor: #f2f2f2;\n\tmargin: 0px !important;\n}\n\n.tecaji {\n\tbackground: white;\n\tmin-height:60vh;\n\tpadding: 50px 0px;\n\tposition: relative;\n}\n\n.tecaji-title {\n\twidth: 100%;\n\tdisplay: flex;\n\tflex-direction: column;\n\tjustify-content: center;\n\talign-items: center;\n\tmargin-bottom: 25px;\n}\n\n.tecaji-title h1 {\t\n\tfont-size: 45px;\n\tfont-weight: 700;\n\tcolor: #75851D;\n\tmargin: 0px !important;\n\ttext-align: center;\n\tpadding-bottom: 25px;\n}\n\n.tecaji-title-line {\n    width: 200px;\n    height: 2px;\n    background: #75851D;\n}\n\n.tecaji p {\n\tfont-size: 18px;\n\tcolor: #262626;\n}\n\n.tecaji h2 {\n    color: #262626;\n\tfont-size: 22px;\n\tmargin: 0px;\n}\n\n.tecaji-accordions {\n\twidth: 100%;\n\tmargin-top: 30px;\n}\n\n.tecaji-accordion {\n\twidth: 100%;\n\theight: 55px;\n\tbackground-color: #75851D;\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n\tborder: 1px solid #75851D;\n\tmargin-top: 8px;\n\ttransition: 0.15s !important;\n\t-o-transition: 0.15s !important;\n\t-webkit-transition: 0.15s !important;\n\t-moz-transition: 0.15s !important;\n}\n\n.accordion-wrapper {\n\t/*box-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.2);*/\n\tborder-radius: 7px;\n}\n\n.tecaji-accordion h1 {\n\tfont-size: 26px;\n\tcolor: #f2f2f2;\n\tmargin: 0px !important;\n\tfont-weight: 700 !important;\n\ttransition: 0.15s !important;\n\t-o-transition: 0.15s !important;\n\t-webkit-transition: 0.15s !important;\n\t-moz-transition: 0.15s !important;\n\tpadding-top: 3px;\n\tfont-family: Arial !important;\n}\n\n.tecaji-accordion:hover {\n\tbackground-color: #f2f2f2;\n}\n\n.active {\n\t/*background-color: #f2f2f2 !important;*/\n}\n\n.active h1 {\n\t/*color: #75851D !important;*/\n}\n\n.tecaji-accordion:hover.tecaji-accordion h1 {\n\tcolor: #75851D;\n}\n\n.tecaji-accordion-content {\n\tbackground: #f2f2f2;\t\n\tborder: 1px solid #b3b3b3;\n}\n\n.padded {\n\tpadding: 15px;\n}\n\n.tecaji-urniki {\n\twidth: 100%;\n\tposition: relative;\n\tpadding-bottom: 40px;\n}\n\n.tecaji-urnik {\n\tdisplay: inline-flex;\n\tflex-direction: column;\n\tjustify-content: center;\n\talign-items: center;\n\tmargin-top: 40px;\n}\n\n.tecaji-urnik h1 {\n\tcolor: #262626;\n\tfont-size: 20px;\n\tfont-weight: 700;\n\tmargin: 0px 0px;\n}\n\n.tecaji-urnik p {\n\tfont-size: 18px;\n\tcolor: #262626;\n\ttext-align: center;\n\tmargin: 0px;\n\tpadding-bottom: 10px;\n\tborder-bottom: 3px solid #75851D;\n}\n\n.w33 {\n\twidth: calc(99.99% / 3);\n}\n\n.w50 {\n\twidth: 50%;\n}\n\n.w100 {\n\twidth: 100%;\n}\n\n.tecaji-gallery {\n\twidth: 100%;\n\tposition: relative;\n\tdisplay: -ms-flexbox;\n    display: flex;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    padding: 2px;\n}\n\n.tecaji-gallery-item {\n\tdisplay: inline-block;\n\tbox-sizing: border-box;\n\tposition: relative;\n\tborder: 2px solid transparent;\n}\n\n.tecaji-gallery-item-overlay {\n\twidth: 100%;\n\theight: 100%;\n\tposition: absolute;\n\tbackground-color: #262626;\n\topacity: 0;\n}\n\n.tecaji-gallery-item-overlay:hover {\n\topacity: 0.5;\n}\n\n.tecaji-gallery-item-img {\n\twidth: 100%;\n\theight: 100%;\n\tposition: relative;\n}\n\n.tecaji-gallery-item-img img {\n\twidth: 100%;\n\theight: 100%;\n\tobject-fit: cover;\n}\n\n.prijava-button {\n\twidth: 200px;\n\theight: 60px;\n\tbackground: #233c47;\n\tborder: 2px solid #233c47;\n\tborder-radius: 30px;\n\ttransition: 0.15s !important;\n\t-o-transition: 0.15s !important;\n\t-webkit-transition: 0.15s !important;\n\t-moz-transition: 0.15s !important;\n\tdisplay: flex;\n\talign-items: center;\n\tjustify-content: center;\n\tmargin-top: 15px;\n}\n\n.prijava-button:hover {\n\tbackground: #f2f2f2;\n}\n\n.prijava-button p {\n\tfont-size: 25px;\n\tcolor: #f2f2f2;\n\ttransition: 0.15s !important;\n\t-o-transition: 0.15s !important;\n\t-webkit-transition: 0.15s !important;\n\t-moz-transition: 0.15s !important;\n}\n\n.prijava-button:hover p {\n\tcolor: #233c47;\n}\n\na {\n\ttext-decoration: none !important;\n}\n\n\n/*---------------*/\n/*NOVICE TEMPLATE*/\n/*---------------*/\n\n\n.novice {\n\tmin-height:100vh;\n\tpadding: 100px 0px;\n\tposition: relative;\n\ttop: 90px;\n}\n\n.novice-title {\n\twidth: 100%;\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n\tmargin-bottom: 30px;\n}\n\n.novice-title h1 {\t\n\tfont-size: 45px;\n\tfont-weight: 900;\n\tcolor: #75851D;\n\tmargin: 0px !important;\n}\n\n.novice p {\n\tfont-size: 18px;\n\tcolor: #f2f2f2;\n}\n\n.novice-aktualno {\n\tposition: relative;\n\twidth: 100%;\n}\n\n.novice-aktualno h1 {\n\tfont-size: 30px;\n\tfont-weight: 700;\n\tcolor: #262626;\n\tmargin: 0px 0px 15px 0px;\n}\n\n.novice-aktualno-wrapper {\n\tdisplay: -ms-flexbox;\n\tdisplay: flex;\n\t-ms-flex-wrap: wrap;\n\tflex-wrap: wrap;\n\twidth: calc(100% + 5px);\n\tmargin-left: -2.5px;\n\tmargin-right: -2.5px;\n}\n\n.novice-aktualno1-wrapper {\n\tdisplay: -ms-flexbox;\n\tdisplay: flex;\n\t-ms-flex-wrap: wrap;\n\tflex-wrap: wrap;\n\twidth: 50%;\n}\n\n.novice-aktualno2-wrapper {\n\tdisplay: -ms-flexbox;\n\tdisplay: flex;\n\t-ms-flex-wrap: wrap;\n\tflex-wrap: wrap;\n\twidth: 100%;\n}\n\n.novice-aktualno3-wrapper {\n\tdisplay: -ms-flexbox;\n\tdisplay: flex;\n\t-ms-flex-wrap: wrap;\n\tflex-wrap: wrap;\n\twidth: 100%;\n}\n\n.novice-aktualno2-3-wrapper {\n\tdisplay: -ms-flexbox;\n\tdisplay: flex;\n\t-ms-flex-wrap: wrap;\n\tflex-wrap: wrap;\n\twidth: 50%;\n}\n\n.novice-arhiv {\n    margin-left: -2.5px;\n}\n\n.novice-arhiv h1 {\n\tfont-size: 24px;\n\tfont-weight: 700;\n\tcolor: #262626;\n\tmargin-top: 50px !important;\n\tpadding-left: 2.5px;\n\tmargin: 0px 0px 15px 0px;\n}\n\n.novica {\n\tdisplay: inline-block;\n\tposition: relative;\n\tcursor: pointer;\n\toverflow: hidden;\n\tborder: 3px solid transparent;\n}\n\n.novica:hover .novica-overlay {\n\tbackground: rgba(242, 242, 242, 0);\n}\n\n.novica:hover .novica-overlay-textbox {\n\tbackground: #f2f2f2;\n\tborder: 1px solid #737373;\n}\n\n.novica:hover .novica-overlay-textbox h1 {\n\tcolor: #262626;\n}\n\n.novica:hover .datumtxt {\n    background: rgba(255,255,255,1);\n}\n\n.main img {\n\twidth: 100%;\n\theight: 66%;\n\tobject-fit: cover;\n\ttransition: 0.2s ease-in-out;\n\t-o-transition: 0.2s ease-in-out;\n\t-moz-transition: 0.2s ease-in-out;\n\t-webkit-transition: 0.2s ease-in-out;\n}\n\n.secondmain img {\n\twidth: 100%;\n\theight: 66%;\n\tobject-fit: cover;\n\ttransition: 0.2s ease-in-out;\n\t-o-transition: 0.2s ease-in-out;\n\t-moz-transition: 0.2s ease-in-out;\n\t-webkit-transition: 0.2s ease-in-out;\n}\n\n.thirdmain img {\n\twidth: 100%;\n\theight: 66%;\n\tobject-fit: cover;\n\ttransition: 0.2s ease-in-out;\n\t-o-transition: 0.2s ease-in-out;\n\t-moz-transition: 0.2s ease-in-out;\n\t-webkit-transition: 0.2s ease-in-out;\n}\n\n.fourthmain img {\n\twidth: 100%;\n\theight: 66%;\n\tobject-fit: cover;\n\ttransition: 0.2s ease-in-out;\n\t-o-transition: 0.2s ease-in-out;\n\t-moz-transition: 0.2s ease-in-out;\n\t-webkit-transition: 0.2s ease-in-out;\n}\n\n.arhiv img {\n    width: 100%;\n\theight: 66%;\n\tobject-fit: cover;\n\ttransition: 0.2s ease-in-out;\n\t-o-transition: 0.2s ease-in-out;\n\t-moz-transition: 0.2s ease-in-out;\n\t-webkit-transition: 0.2s ease-in-out;\n}\n\n.novica-overlay {\n\tdisplay: flex;\n\talign-items: flex-end;\n\tposition: absolute;\n\twidth: 100%;\n\theight: 100%;\n\tz-index: 2;\n\tbackground: rgba(242, 242, 242, 0.15);\n\ttransition: 0.2s ease-in-out;\n\t-o-transition: 0.2s ease-in-out;\n\t-moz-transition: 0.2s ease-in-out;\n\t-webkit-transition: 0.2s ease-in-out;\n}\n\n.novica-overlay-textbox {\n\tpadding: 8px;\n\t/*border: 1px solid #75851D;*/\n\theight: 34%;\n\twidth: 100%;\n\tposition: relative;\n\tbackground: #737373;\n\topacity: 1;\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n\ttransition: 0.2s ease-in-out;\n\t-o-transition: 0.2s ease-in-out;\n\t-moz-transition: 0.2s ease-in-out;\n\t-webkit-transition: 0.2s ease-in-out;\n}\n\n.novica-overlay-textbox h1 {\n\tfont-weight: 700;\n\tcolor: #f2f2f2;\n\tmargin: 0px !important;\n\ttext-align: center;\n\ttransition: 0.2s ease-in-out;\n\t-o-transition: 0.2s ease-in-out;\n\t-moz-transition: 0.2s ease-in-out;\n\t-webkit-transition: 0.2s ease-in-out;\n}\n\n.arhiv h1 {\n    font-size: 1.5vw !important;\n}\n    \n.main h1 {\n    font-size: 2.5vw !important;\n}\n    \n.secondmain h1 {\n    font-size: 1.5vw !important;\n}\n    \n.thirdmain h1 {\n    font-size: 1.5vw !important;\n}\n    \n.fourthmain h1 {\n    font-size: 1.5vw !important;\n}\n\n.main {\n\tdisplay: inline-block;\n\twidth: 100%;\n\theight: 100%;\n}\n\n.secondmain {\n\tdisplay: inline-block;\n\twidth: 100%;\n\theight: 100%;\n}\n\n.thirdmain {\n\tdisplay: inline-block;\n\twidth: 50%;\n\theight: 100%;\n}\n\n.fourthmain {\n\tdisplay: inline-block;\n\twidth: 50%;\n\theight: 100%;\n}\n\n.arhiv {\n\twidth: 25%;\n\tdisplay: inline-block;\n}\n\n.datumtxt {\n    height: 40px;\n    background: rgba(255,255,255,0.7);\n    top: 5px;\n    position: absolute;\n    right: 5px;\n    padding: 5px 10px;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    transition: 0.2s ease-in-out;\n\t-o-transition: 0.2s ease-in-out;\n\t-moz-transition: 0.2s ease-in-out;\n\t-webkit-transition: 0.2s ease-in-out;\n}\n\n.datumtxt p {\n    color: #262626;\n    margin: 0px;\n    font-size: 14px !important;\n}\n\n.loadmore {\n\tdisplay: flex;\n\talign-items: center;\n\tjustify-content: center;\n\tpadding: 10px;\n\twidth: 100%;\n}\n\n.loadmore-button {\n\tdisplay: flex;\n\talign-items: center;\n\tjustify-content: center;\n\twidth: 200px;\n\theight: 40px;\n\tbackground: #75851D;\n\tcursor: pointer;\n\tborder: 3px solid #75851D;\n\tborder-radius: 50px;\n\ttransition: 0.1s ease-in-out;\n\t-o-transition: 0.1s ease-in-out;\n\t-moz-transition: 0.1s ease-in-out;\n\t-webkit-transition: 0.1s ease-in-out;\n}\n\n.loadmore-button:hover {\n\tbackground: #f2f2f2;\n}\n\n.loadmore-button:hover p{\n\tcolor: #75851D;\n}\n\n.loadmore-button p {\n\tfont-size: 16px;\n\tcolor: #f2f2f2;\n\tfont-weight: 700;\n\ttransition: 0.1s ease-in-out;\n\t-o-transition: 0.1s ease-in-out;\n\t-moz-transition: 0.1s ease-in-out;\n\t-webkit-transition: 0.1s ease-in-out;\n}\n\n.banner {\n  \tposition: relative;\n  \twidth: 100%;\n}\n\n.banner img {\n  \twidth: 100%;\n  \theight: 100%;\n  \tobject-fit: cover;\n}\n\n.urbanfestopis {\n  \tpadding-top: 30px;\n}\n\n.urbanfestopis p {\n  \tfont-size: 16px;\n  \tcolor: #262626;\n}\n\n.container-novice-70 {\n  \ttop: 150px;\n  \tposition: relative;\n  \twidth: 70%;\n  \tmargin-left: 15%;\n  \tpadding: 15px;\n  \tbackground: #f2f2f2;\n  \tbox-shadow: 0px 0px 10px 3px rgba(0, 0, 0, 0.2);\n}\n\n.novica-text {\n\n}\n\n.novica-text h1 {\n\tcolor: #262626;\n\tfont-size: 34px;\n\tfont-weight: 600;\n\ttext-align: left;\n\tfont-family: ARIAL !important;\n}\n\n.novica-text h2 {\n\tcolor: #262626;\n\tfont-size: 18px;\n\tfont-weight: 700;\n}\n\n.novica-text p {\n\tcolor: #262626;\n\tfont-size: 16px;\n}\n\n.novica-text-title-wrapper {\n\tposition: relative;\n\twidth: 100%;\n\tdisplay: flex;\n}\n\n.title-wrapper {\n\tdisplay: inline-flex;\n\twidth: 70%;\n\tjustify-content: flex-start;\n}\n\n.datum-wrapper {\n\tdisplay: inline-flex;\n\twidth: 30%;\n\tjustify-content: flex-end;\n}\n\n.naspre-wrapper {\n\tposition: relative;\n\twidth: 100%;\n\tdisplay: flex;\n\tmargin-top: 40px;\n}\n\n.prejsnja {\n\twidth: 50%;\n\tdisplay: inline-flex;\n\tflex-direction: column;\n\talign-items: flex-start;\n\tborder-left: 3px solid #75851D;\n\tpadding-left: 8px;\n}\n\n.prejsnja b {\n\tfont-size: 16px;\n\tcolor: #262626 !important;\n\tmargin: 0px !important;\n}\n\n.prejsnja a {\n\tfont-size: 16px;\n\tcolor: #75851D !important;\n\tmargin: 0px !important;\n}\n\n.naslednja {\n\twidth: 50%;\n\tdisplay: inline-flex;\n\tflex-direction: column;\n\talign-items: flex-end;\n\tborder-right: 3px solid #75851D;\n\tpadding-right: 8px;\n}\n\n.naslednja b {\n\tfont-size: 16px;\n\tcolor: #262626 !important;\n\tmargin: 0px !important;\n}\n\n.naslednja a {\n\tfont-size: 16px;\n\tcolor: #75851D !important;\n\tmargin: 0px !important;\n}\n/*---------------*/\n/*ROSJTNI DNEVI*/\n/*---------------*/\n\n.rd-wrapper {\n\twidth: 100%;\n\tdisplay: flex;\n\tflex-direction: column;\n\tjustify-content: center;\n\talign-items: center;\n}\n\n.rd-wrapper p {\n\ttext-align: center;\n}\n\n/*---------------*/\n/*CENIK TEMPLATE*/\n/*---------------*/\n\n.cenik {\n\tpadding: 170px 0px !important;\n}\n\n.cenik-accordions {\n\twidth: 100%;\n\tdisplay: flex;\n\talign-items: center;\n\tjustify-content: center;\n\tflex-direction: column;\n}\n\n.cenik-accordion {\n\twidth: 70%;\n\theight: 80px;\n\tbackground-color: #CCD986;\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n\tborder: 1px solid #CCD986;\n\tpadding: 10px;\n\tmargin-top: 10px;\n\ttransition: 0.15s !important;\n\t-o-transition: 0.15s !important;\n\t-webkit-transition: 0.15s !important;\n\t-moz-transition: 0.15s !important;\n}\n\n.cenik-accordion h1 {\n\tfont-size: 24px;\n\tcolor: #49521A;\n\tmargin: 0px !important;\n\tfont-weight: 700 !important;\n\ttransition: 0.15s !important;\n\t-o-transition: 0.15s !important;\n\t-webkit-transition: 0.15s !important;\n\t-moz-transition: 0.15s !important;\n\tpadding-top: 5px;\n\ttext-align: center;\n}\n\n.cenik-accordion:hover {\n\tbackground-color: #f2f2f2;\n}\n\n.cenik-accordion:hover.cenik-accordion h1 {\n\tcolor: #49521A;\n}\n\n.cenik-accordion-content {\n\twidth: 70%;\n\tbackground: #f2f2f2;\n\tborder: 1px solid #b3b3b3;\t\n}\n\n.cenik-vrstica {\n\twidth: 100%;\n\tdisplay: flex;\n\tflex-direction: row;\n\tbackground: rgba(0, 0, 0, 0);\n\ttransition: 0.05s !important;\n\t-o-transition: 0.05s !important;\n\t-webkit-transition: 0.05s !important;\n\t-moz-transition: 0.05s !important;\n}\n\n.cenik-vrstica:hover {\n\tbackground: rgba(0, 0, 0, 0.1);\n}\n\n.postavka {\n\tdisplay: inline-flex;\n\tjustify-content: flex-start;\n\talign-items: center;\n\twidth: 70%;\n\tpadding: 10px;\n}\n\n.cena {\n\tdisplay: inline-flex;\n\tjustify-content: flex-end;\n\talign-items: center;\n\twidth: 30%;\n\tpadding: 10px;\n}\n\n.postavka p {\n\tfont-size: 16px;\n\tcolor: #262626 !important;\n\tmargin: 0px;\n\ttext-align: left;\n}\n\n.cena p {\n\tfont-size: 16px;\n\tcolor: #262626 !important;\n\tmargin: 0px;\n\ttext-align: right;\n}\n\n/*---------------*/\n/*PROSTA REKREACIJA*/\n/*---------------*/\n\n.timetables {\n\twidth: 100%;\n\tposition: relative;\n\tdisplay: flex;\n\talign-items: flex-start;\n\tjustify-content: center;\n\tmargin: 30px 0px;\n}\n\n.timetable-wrapper1 {\n\tposition: relative;\n\twidth: calc(99.99% / 3);\n\tdisplay: inline-flex;\n\tjustify-content: center;\n\talign-items: center;\n}\n\n.timetable-wrapper2 {\n\tposition: relative;\n\twidth: calc(99.99% / 3);\n\tdisplay: inline-flex;\n\tjustify-content: center;\n\talign-items: center;\n}\n\n.timetable-wrapper3 {\n\tposition: relative;\n\twidth: calc(99.99% / 3);\n\tdisplay: inline-flex;\n\tjustify-content: center;\n\talign-items: center;\n}\n\n.timetable {\n\tdisplay: inline-flex;\n\tflex-direction: column;\n\tjustify-content: center;\n\talign-items: center;\n\twidth: 70%;\n\tborder: 5px solid white;\n\tborder-radius: 15px;\n\tbackground: #262626;\n\tpadding: 15px; \n\ttransition: 0.15s !important;\n\t-o-transition: 0.15s !important;\n\t-webkit-transition: 0.15s !important;\n\t-moz-transition: 0.15s !important;\n}\n\n.timetable:hover {\n\tborder: 5px solid #75851D;\n}\n\n.timetable img {\n\twidth: 60px;\n}\n\n.timetable h1 {\n\tcolor: #f2f2f2;\n\tfont-size: 30px;\n\ttransition: 0.15s !important;\n\t-o-transition: 0.15s !important;\n\t-webkit-transition: 0.15s !important;\n\t-moz-transition: 0.15s !important;\n\ttext-align: center;\n}\n\n.timetable p {\n\tcolor: #f2f2f2;\n\tfont-size: 16px;\n\ttransition: 0.15s !important;\n\t-o-transition: 0.15s !important;\n\t-webkit-transition: 0.15s !important;\n\t-moz-transition: 0.15s !important;\n\tmargin: 0px;\n\ttext-align: left;\n}\n\n.timetable b {\n\tcolor: #f2f2f2;\n\tfont-size: 20px !important;\n\ttransition: 0.15s !important;\n\t-o-transition: 0.15s !important;\n\t-webkit-transition: 0.15s !important;\n\t-moz-transition: 0.15s !important;\n\tmargin: 0px;\n\ttext-align: center;\n\tfont-weight: 700;\n}\n\n.timetable-line {\n    width: 100px;\n    height: 2px;\n    background: #75851D;\n    margin-bottom: 20px;\n}\n\n.prosta-gallery {\n\twidth: 100%;\n\tposition: relative;\n\tdisplay: -ms-flexbox;\n    display: flex;\n    -ms-flex-wrap: wrap;\n    flex-wrap: wrap;\n    margin: 30px 0px;\n}\n\n.prosta-gallery-item {\n\tdisplay: inline-block;\n\tbox-sizing: border-box;\n\tposition: relative;\n\tpadding: 2px;\n}\n\n.prosta-gallery-item-overlay {\n\twidth: 100%;\n\theight: 100%;\n\tposition: absolute;\n\tbackground-color: #262626;\n\topacity: 0;\n}\n\n.prosta-gallery-item-overlay:hover {\n\topacity: 0.5;\n}\n\n.prosta-gallery-item-img {\n\twidth: 100%;\n\theight: 100%;\n\tposition: relative;\n}\n\n.prosta-gallery-item-img img {\n\twidth: 100%;\n\theight: 100%;\n\tobject-fit: cover;\n}\n\n/*---------------*/\n/*RESPONSIVE*/\n/*---------------*/\n\n@media (max-width: 1460px) {\n    \n    .timetable {\n\t    width: 85%;\n\t}\n\t\n\t.cenik-accordion {\n\t    width: 80%;\n\t    height: 80px;\n\t}\n\t\n\t.cenik-accordion-content {\n\t    width: 80%;\n\t}\n\t\n\t.cenik-accordion h1 {\n\t    font-size: 22px;\n\t}\n}\n\n@media (max-width: 1280px) {\n    \n    .container70 {\n\t    width: 75%;\n\t    margin-left: 12.5%;\n\t}\n\t\n\t.urbanasola-sport-overlay p {\n        font-size: 4vw;\n\t}\n    \n    .novica-overlay-textbox {\n        height: 40%;\n    }\n    \n    .main img {\n    \theight: 60%;\n    }\n    \n    .secondmain img {\n    \theight: 60%;\n    }\n    \n    .thirdmain img {\n        height: 60%;\n    }\n    \n    .fourthmain img {\n    \theight: 60%;\n    }\n    \n    .arhiv img {\n        height: 60%;\n    }\n    \n    .arhiv h1 {\n        font-size: 1.5vw !important;\n    }\n    \n    .main h1 {\n        font-size: 4vw !important;\n    }\n    \n    .secondmain h1 {\n        font-size: 1.5vw !important;\n    }\n    \n    .thirdmain h1 {\n        font-size: 1.5vw !important;\n    }\n    \n    .fourthmain h1 {\n        font-size: 1.5vw !important;\n    }\n       \n}\n\n@media (max-width: 1210px) {\n    \n    .timetable-wrapper1 {\n    \tjustify-content: flex-start;\n    }\n\n    .timetable-wrapper2 {\n    \tjustify-content: center;\n    }\n\n    .timetable-wrapper3 {\n    \tjustify-content: flex-end;\n    }\n    \n    .timetable {\n\t    width: 100%;\n\t}\n\t\n\t.cenik-accordion {\n\t    width: 85%;\n\t    height: 80px;\n\t}\n\t\n\t.cenik-accordion-content {\n\t    width: 85%;\n\t}\n\t\n\t.cenik-accordion h1 {\n\t    font-size: 20px;\n\t}\n}\n\n\n@media (max-width: 1024px) {\n\n\t.mobilemenu {\n\t\tdisplay: block;\n\t}\n\n\t.desktopmenu {\n\t\tdisplay: none;\n\t}\n    \n    .container70 {\n\t    width: 80%;\n\t    margin-left: 10%;\n\t}\n    \n    .arhiv {\n\t    width: calc(99.99% / 3);\n\t}\n\t\n\t.timetables {\n\t    flex-direction: column;\n\t}\n\t\n\t.timetable-wrapper1 {\n    \twidth: 100%;\n    \tdisplay: flex;\n    \tjustify-content: center;\n    \tmargin-bottom: 30px;\n    }\n\n    .timetable-wrapper2 {\n    \twidth: 100%;\n    \tdisplay: flex;\n    \tjustify-content: center;\n    \tmargin-bottom: 20px;\n    }\n\n    .timetable-wrapper3 {\n    \twidth: 100%;\n    \tdisplay: flex;\n    \tjustify-content: center;\n    \tmargin-bottom: 20px;\n    }\n    \n    .timetable {\n\t    width: 50%;\n\t}\n    \n    .arhiv h1 {\n        font-size: 2.2vw !important;\n    }\n    \n    .main h1 {\n        font-size: 4.2vw !important;\n    }\n    \n    .secondmain h1 {\n        font-size: 2.2vw !important;\n    }\n    \n    .thirdmain h1 {\n        font-size: 2.2vw !important;\n    }\n    \n    .fourthmain h1 {\n        font-size: 2.2vw !important;\n    }\n    \n    .novice-aktualno1-wrapper {\n    \twidth: 100%;\n    }\n\n    .novice-aktualno2-wrapper {\n    \twidth: calc(100% / 3);\n    }\n\n    .novice-aktualno3-wrapper {\n    \twidth: calc(100% / 1.5);\n    }\n\n    .novice-aktualno2-3-wrapper {\n    \twidth: 100%;\n    }\n    \n    .cenik-accordion {\n\t    width: 90%;\n\t    height: 80px;\n\t}\n\t\n\t.cenik-accordion-content {\n\t    width: 90%;\n\t}\n\t\n\t.cenik-accordion h1 {\n\t    font-size: 20px;\n\t}\n\t\n\t.main-slider {\n\t\theight: calc(var(--vh, 1vh) * 100);\n\t}\n\n\t.slide-content {\n\t\theight: calc(var(--vh, 1vh) * 100);\n\t}\n\n\t.slider-tekst-wrapper {\n\t\tpadding: 0px 5%;\n\t}\n\t\n\t.w33 {\n\t    width: 50%;\n\t}\n\t\n\t.w25 {\n\t    width: 50%;\n\t}\n}\n\n@media (max-width: 800px) {\n    \n    .timetable {\n\t    width: 60%;\n\t}\n}\n\n\n@media (max-width: 766px) {\t\n    \n\t\t.container70 {\n\t    width: 90%;\n\t    margin-left: 5%;\n\t}\n\t\n\t.container-novice-70 {\n      \twidth: 90%;\n      \tmargin-left: 5%;\n    }\n\n\t.meni-bar {\n\t\theight: 60px;\n\t}\n\n\t.meni-bars {\n\t\tmargin-top: 60px;\n\t}\n\n\t.bar1, .bar2, .bar3 {\n\t    width: 35px;\n\t    height: 5px;\n\t    margin: 6px 0;\n\t}\n\n\t.change .bar1 {\n    \t-webkit-transform: translate(0px, 6px) rotate(-45deg);\n    \ttransform: translate(0px, 6px) rotate(-45deg);\n\t}\n\n\t.logo img {\n\t\twidth: 90px !important;\n\t}\n\n\t.meni-links1 p, .meni-links2 p, .meni-links3 p {\n\t    font-size: 16px;\n\t    letter-spacing: 0em;\n\t}\n\t\n\t.meni-links1 a, .meni-links2 a, .meni-links3 a {\n\t    font-size: 16px;\n\t    letter-spacing: 0em;\n\t}\n\t\n\t\n\t.slider-tekst {\n\t    min-height: 100px;\n\t    padding-bottom: 30px;\n\t}\n\n\t.slider-tekst-title-wrapper b{\n\t\tfont-size: 28px;\n\t}\n\t\n\t.slider-tekst-wrapper p {\n        font-size: 16px !important;\n    }\n    \n    .activeSTW {\n        margin-top: 20px;\n        margin-bottom: 40px;\n    }\n    \n\t.arrow-prev {\n\t\tleft: calc(10% - 20px);\n\t\twidth: 40px;\n\t\theight: 40px;\n\t}\n\n\t.arrow-next {\n\t\tright: calc(10% - 20px);\n\t\twidth: 40px;\n\t\theight: 40px;\n\t}\n\t\n\t.arrow-prev p {\n\t    font-size: 28px;\n\t}\n\t\n\t.arrow-next p {\n\t    font-size: 28px;\n\t}\n\n\t.urbanasola-title {\n\t\tflex-direction: column;\n\t}\n\n\t.urbanasola-title h1 {\n\t\tfont-size: 36px;\n\t\twhite-space: normal;\n\t\ttext-align: center;\n\t}\n\n\t.urbanasola-tekst {\n\t\tborder: none;\n\t\tpadding-left: 0px;\n\t}\n\t\n\t.urbanasola-tekst p {\n\t\tfont-size: 18px !important;\n\t}\n\n\t.urbanasola-sport-wrapper {\n\t\twidth: 100%;\n\t}\n\n\t.urbanasola-sport {\n\t\twidth: 100%;\n\t}\n\t\n\t.urbanasola-sport-overlay p {\n        font-size: 7vw;\n\t}\n\n\t.aktualno-title {\n\t\tflex-direction: column;\n\t}\n\n\t.aktualno-title h1 {\n\t\tfont-size: 36px;\n\t}\n\n\t.aktualno-tekst {\n\t\tborder: none;\n\t\tpadding-left: 0px;\n\t}\n\t\n\t.aktualno-tekst p {\n\t    font-size: 18px;\n\t}\n\n\t.onas-title {\n\t\tflex-direction: column;\n\t\tmargin-bottom: 0px;\n\t}\n\n\t.onas-title h1 {\n\t\tfont-size: 36px;\n\t}\n\n\t.onas-tekst {\n\t\tborder: none;\n\t\tpadding-left: 0px;\n\t}\n\t\n\t.onas-description p {\n\t    font-size: 16px;\n\t}\n\n\t.onas-description-wrapper {\n\t\twidth: 100%;\n\t\tmargin: 20px 0px;\n\t}\n\n\t.novica {\n\t\twidth: 100% !important;\n\t}\n\t\n\t.onas-description {\n\t    padding-right: 0px;\n\t }\n\t \n\t \n\t.tecaji-urniki {\n        display: flex;\n        flex-direction: column;\n    }\n    \n    .w50 {\n        width: 100%;\n    }\n    \n    .timetable {\n        width: 70%;\n    }\n    \n    .arhiv {\n\t    width: 50% !important;\n\t}\n\n    .novice-aktualno2-wrapper {\n\t    width: 100%;\n\t}\n\t\n\t.novice-aktualno3-wrapper {\n\t    width: 100%;\n\t}\n\t\n\t.thirdmain {\n\t    height: 50%;\n\t}\n\t\n\t.fourthmain {\n\t    height: 50%;\n\t}\n\t\n\t.cenik-accordion {\n\t    width: 100%;\n\t    height: 80px;\n\t}\n\t\n\t.cenik-accordion-content {\n\t    width: 100%;\n\t}\n\t\n\t.cenik-accordion h1 {\n\t    font-size: 20px;\n\t}\n\n\t.arhiv h1 {\n        font-size: 3vw !important;\n    }\n    \n    .main h1 {\n        font-size: 5vw !important;\n    }\n    \n    .secondmain h1 {\n        font-size: 5vw !important;\n    }\n    \n    .thirdmain h1 {\n        font-size: 5vw !important;\n    }\n    \n    .fourthmain h1 {\n        font-size: 5vw !important;\n    }\n\n\t.container80 {\n\t\twidth: 85%;\n\t\tmargin-left: 5%;\n\t}\n\t\n\t.w33 {\n\t    width: 100%;\n\t}\n\t\n\t.w25 {\n\t    width: 100%;\n\t}\n\t\n\t.tecaji-title h1 {\n\t    font-size: 36px;\n\t}\n\t\n\t.tecaji p {\n\t    text-align: justify;\n\t}\n\n\t.menis-wrapper {\n\t\tflex-direction: column;\n\t}\n\n\t.meni1 {\n\t\twidth: 100%;\n\t}\n\n\t.meni2 {\n\t\twidth: 100%;\n\t}\n\n\t.meni3 {\n\t\twidth: 100%;\n\t}\n\n}\n\n@media (max-width: 600px) {\n    .container80 {\n        width: 90%;\n        margin-left: 5%;\n    }\n    \n    .timetable {\n        width: 80%;\n    }\n    \n}\n\n\n@media (max-width: 480px) {\n    .container80 {\n        width: 90%;\n        margin-left: 5%;\n    }\n    \n    .timetable {\n        width: 100%;\n    }\n    \n    .arhiv {\n        width: 100% !important;\n    }\n    \n    .arhiv h1 {\n        font-size: 6.5vw !important;\n    }\n    \n    .main h1 {\n        font-size: 6.5vw !important;\n    }\n    \n    .secondmain h1 {\n        font-size: 6.5vw !important;\n    }\n    \n    .thirdmain h1 {\n        font-size: 6.5vw !important;\n    }\n    \n    .fourthmain h1 {\n        font-size: 6.5vw !important;\n    }\n    \n    .urbanasola-sport-overlay p {\n        font-size: 9vw;\n\t}\n\t\n\t.onas-description p {\n\t    text-align: justify;\n\t}\n}\n\n@media (max-width: 350px) {\n    .slider-tekst-wrapper p {\n        font-size: 15px !important;\n    }\n    \n    .urbanasola-sport-overlay p {\n        font-size: 32px;\n    }\n\n    \n}\n\n",
+			"line",
+			"caret",
+			"box",
+			"resize",
+			"tecaji",
+			"container",
+			" \t",
+			"box",
+			"f2f2f2",
+			"color",
+			"box",
+			"boc",
+			"75851D",
+			"55€",
+			"\">",
+			" id=\"accordioncollapseOne\"",
+			"active",
+			"tecaji",
+			"637a00",
+			"819f00",
+			"row",
+			"637a00",
+			";\n",
+			"box",
+			"box-s",
+			"radial",
+			"urbanasola",
+			"mainslider",
+			"swipe",
+			"navig",
+			"row",
+			"main",
+			"row",
+			"p",
+			"  //",
+			"0px",
+			"}\n",
+			"\"})\n",
+			"}\n",
+			"show",
+			"collapse",
+			"cards",
+			"card",
+			"accordion",
+			"collapse",
+			"row",
+			"blue",
+			"    \n",
+			"urbane-photos",
+			"urbane",
+			"w33",
+			"\");",
+			"b",
+			"row",
+			"container",
+			"close",
+			"translate",
+			"modal",
+			"moda",
+			"45",
+			"onload",
+			"each",
+			"services-background",
+			"navig",
+			"category",
+			"single-page-header",
+			"container-modal",
+			"close",
+			" .preloaderanim img {",
+			".preloaderanim",
+			".preloaderanim img {",
+			".preloaderanim img{"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"font-size: 40px",
+			"\"font-size: 40px;",
+			" wow fadeIn\" data-wow-duration=\"1s",
+			" wow fadeIn\" data-wow-duration=\"0.5s",
+			"0.5",
+			"500",
+			"oprema-photo",
+			"oprema-photo-overlay",
+			"oprema-photo-ovelay",
+			"oprema",
+			"oprema-photo",
+			"993d00",
+			"d26e35",
+			"637a00",
+			" a",
+			" ",
+			"",
+			"75851D",
+			"637a00",
+			"75851D",
+			"819f00",
+			" </",
+			"'/>",
+			"gallery-navigation",
+			"p",
+			"calc(75vh - 100px)",
+			"storitev",
+			"o-nas",
+			"whatwedo",
+			"dogodek",
+			"",
+			"flex400",
+			"h400",
+			"",
+			"Normirana frekvenca",
+			"<img src=\"",
+			"",
+			"570px",
+			"600px",
+			"",
+			"report",
+			"visible",
+			"h1",
+			"img src=\"\" class=\"lazy_load\" data-src=\"",
+			"date",
+			"event",
+			"img src=\"\" class=\"lazy_load\" data-",
+			"news",
+			"id=\"news ",
+			" ",
+			"",
+			"a",
+			"left",
+			"4",
+			"aligncenter",
+			"style=\"",
+			"",
+			"vrstica",
+			"tecaji",
+			"gnezdo",
+			"plezanje",
+			"freestyle-mini",
+			"rolanje",
+			"ROLANJE",
+			"rolanje",
+			"dropdown-menu1",
+			"3",
+			"dropdown2",
+			"-thumbnail.jpg\" alt=\"img\"",
+			"-thumbnail.jpg alt=\"img\"",
+			"-thumbnail-jpg alt=\"img\"",
+			"thumbnail-jpg alt=\"img\"",
+			"<a class=\"fancybox single-item-content\" data-fancybox-group=\"gallery\" href=\"images/izgradnja",
+			"<img src=\"images/izgradnja-",
+			"<a class=\"fancybox single-item-content\" data-fancybox-group=\"gallery\" href=\"images/izgradnja-thumbnail",
+			"<a class=\"fancybox single-item-content\" data-fancybox-group=\"gallery\" href=\"images/izgradnja",
+			"<img src=\"images/izgradnja-",
+			"izgradnja",
+			"",
+			"bcd143",
+			"",
+			"/",
+			"",
+			"/",
+			"",
+			"www",
+			"Arial ",
+			"Arial !important;",
+			"'Open Sans', sans-serif !important;",
+			"Tahoma !important;",
+			"Verdana !important;",
+			"'Lato', sans-serif !important;",
+			"'Lato', sans-serif",
+			"'Lato', sans-serif !important;\t",
+			"Verdana !important;\t",
+			"Trebuchet MS\t",
+			"Trebuchet",
+			"Verdana",
+			"Courier",
+			"Times",
+			"Arial",
+			"Helvetica",
+			"<div class=\"tab\" style=\"width:100%",
+			"<div class=\"container\" style=\"width:100vw; padding:0\">",
+			"<button class=\"tablinks\" style=\"width:100%; height: 100%; text-align:center\"",
+			"<div class=\"tab\" style=\"width: 100%; height: 70px; font-size: 24px; margin-top:0px\">  ",
+			"<div class=\"col-md-12 col-sm-12 col-xs-12\" style=\"padding-left: 0;\">",
+			"<div class=\"col-md-12 col-sm-12 col-xs-12\" style=\"padding-left: 0;>",
+			"<div class=\"col-md-12 col-sm-12 col-xs-12\" style=\"padding-left: 0;",
+			"<div class=\"col-md-12 col-sm-12 col-xs-12\" style=\"padding-left: 0; margin-left: -1px\">",
+			"<div class=\"tab\" style=\"width:100%; height: 70px; font-size: 24px; margin-top:0px\">  ",
+			"tabcontent\" style=\"margin-top: 71px\"",
+			"container1\"",
+			"<div class=\"container1\">",
+			"<button class=\"tablinks\" style=\"width:120%; margin-left: -10.5%;",
+			"-10",
+			"-10.2%",
+			"",
+			"margin-top: 0px",
+			"0px",
+			"120%; margin-left: -10%;",
+			"100%",
+			"7.3vw",
+			"12",
+			"000",
+			"-10.3",
+			"cenik",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "server.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
